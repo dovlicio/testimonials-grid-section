@@ -19,7 +19,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Live Site URL: [Solution online](https://dovlicio.github.io/four-card-feature/)
+- Live Site URL: [Solution online](https://dovlicio.github.io/testimonials-grid-section/)
 
 ## My process
 
